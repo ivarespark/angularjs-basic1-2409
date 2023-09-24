@@ -1,0 +1,8 @@
+http://localhost/angular/basic1-24923/httpprueba.html
+
+https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js
+url api:
+https://jsonplaceholder.typicode.com/
+https://jsonplaceholder.typicode.com/guide/
+--> jsonplaceholder.typicode.com/posts
+
